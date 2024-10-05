@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>good on Photo</title>
+    <link>http://101.43.173.2/tags/good/</link>
+    <description>Recent content in good on Photo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 23:05:01 +0800</lastBuildDate><atom:link href="http://101.43.173.2/tags/good/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sedona</title>
+      <link>http://101.43.173.2/sedona/</link>
+      <pubDate>Tue, 19 Mar 2024 23:05:01 +0800</pubDate>
+      
+      <guid>http://101.43.173.2/sedona/</guid>
+      <description>title: &amp;ldquo;Cats 小猫&amp;rdquo; date: 2020-03-15T10:06:11-06:00 description: &amp;ldquo;This album is about cats.&amp;rdquo; weight: 0 tags:
+friendly resources:
+src: cats/cat_01.jpg weight: 1 alt: Cat in the grass phototitle: Grass cat description: This cat stalks through the grass categories:
+dark colored src: cats/cat_02.jpg alt: A cat in some sort of urban setting phototitle: Cool cat description: One of the coolest cats
+src: cats/cat_03.jpg weight: 10 phototitle: 一只可爱的小猫 description: 我是一只可爱的小猫</description>
+    </item>
+    
+    <item>
+      <title>三峡游轮</title>
+      <link>http://101.43.173.2/%E4%B8%89%E5%B3%A1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://101.43.173.2/%E4%B8%89%E5%B3%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>白帝城的照片</title>
+      <link>http://101.43.173.2/%E4%B8%89%E5%B3%A1/%E7%99%BD%E5%B8%9D%E5%9F%8E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://101.43.173.2/%E4%B8%89%E5%B3%A1/%E7%99%BD%E5%B8%9D%E5%9F%8E/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Photo</title>
+    <link>http://101.43.173.2/tags/</link>
+    <description>Recent content in Tags on Photo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 23:05:01 +0800</lastBuildDate><atom:link href="http://101.43.173.2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>good</title>
+      <link>http://101.43.173.2/tags/good/</link>
+      <pubDate>Tue, 19 Mar 2024 23:05:01 +0800</pubDate>
+      
+      <guid>http://101.43.173.2/tags/good/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friendly</title>
+      <link>http://101.43.173.2/tags/friendly/</link>
+      <pubDate>Sun, 15 Mar 2020 14:00:00 -0600</pubDate>
+      
+      <guid>http://101.43.173.2/tags/friendly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
